@@ -17,7 +17,7 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 [Web App](https://app.nextchat.dev/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/NextChatDev)
 
 [网页版](https://app.nextchat.dev/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
-
+ 
 [web-url]: https://chatgpt.nextweb.fun
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
